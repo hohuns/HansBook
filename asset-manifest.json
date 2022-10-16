@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HansBook/static/css/main.3e2a400e.css",
+    "main.js": "/HansBook/static/js/main.0dfd757a.js",
+    "index.html": "/HansBook/index.html",
+    "main.3e2a400e.css.map": "/HansBook/static/css/main.3e2a400e.css.map",
+    "main.0dfd757a.js.map": "/HansBook/static/js/main.0dfd757a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2a400e.css",
+    "static/js/main.0dfd757a.js"
+  ]
+}
