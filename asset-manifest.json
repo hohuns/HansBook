@@ -1,13 +1,22 @@
 {
   "files": {
     "main.css": "/HansBook/static/css/main.3e2a400e.css",
-    "main.js": "/HansBook/static/js/main.0dfd757a.js",
+    "main.js": "/HansBook/static/js/main.693f8a92.js",
+    "static/media/ad.png": "/HansBook/static/media/ad.db2836c95b18396280e3.png",
+    "static/media/4.jpeg": "/HansBook/static/media/4.66f201fb27800a4eb712.jpeg",
+    "static/media/7.jpeg": "/HansBook/static/media/7.9d510d3191dbe4b2b7b1.jpeg",
+    "static/media/2.jpeg": "/HansBook/static/media/2.f85985033922ab983185.jpeg",
+    "static/media/3.jpeg": "/HansBook/static/media/3.8b12f805a7bc46bc38df.jpeg",
+    "static/media/6.jpeg": "/HansBook/static/media/6.919f1e7ccbcfa8070739.jpeg",
+    "static/media/1.jpeg": "/HansBook/static/media/1.e83c837531f556b56707.jpeg",
+    "static/media/5.jpeg": "/HansBook/static/media/5.13741948b6a3c21030e6.jpeg",
+    "static/media/gift.png": "/HansBook/static/media/gift.4a9c4d62df0cccc684e3.png",
     "index.html": "/HansBook/index.html",
     "main.3e2a400e.css.map": "/HansBook/static/css/main.3e2a400e.css.map",
-    "main.0dfd757a.js.map": "/HansBook/static/js/main.0dfd757a.js.map"
+    "main.693f8a92.js.map": "/HansBook/static/js/main.693f8a92.js.map"
   },
   "entrypoints": [
     "static/css/main.3e2a400e.css",
-    "static/js/main.0dfd757a.js"
+    "static/js/main.693f8a92.js"
   ]
 }
