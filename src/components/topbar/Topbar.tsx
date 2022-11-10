@@ -4,6 +4,7 @@ import PersonIcon from "@mui/icons-material/Person";
 import ChatIcon from "@mui/icons-material/Chat";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import { useNavigate } from "react-router-dom";
+import Img1 from "../../public/assets/person/1.jpeg";
 
 function Topbar() {
   const navigate = useNavigate();
@@ -43,7 +44,7 @@ function Topbar() {
             <span className="topbarIconBadge">1</span>
           </div>
         </div>
-        <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />
+        <img src={Img1} alt="" className="topbarImg" />
       </div>
     </div>
   );

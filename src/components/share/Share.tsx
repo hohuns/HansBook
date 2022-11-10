@@ -3,13 +3,14 @@ import PermMediaIcon from "@mui/icons-material/PermMedia";
 import LabelIcon from "@mui/icons-material/Label";
 import RoomIcon from "@mui/icons-material/Room";
 import EmojiEmotionsIcon from "@mui/icons-material/EmojiEmotions";
+import Img1 from "../../public/assets/person/1.jpeg";
 
 const Share = () => {
   return (
     <div className="share">
       <div className="shareWrapper">
         <div className="shareTop">
-          <img src="/assets/person/1.jpeg" alt="" className="shareProfileImg" />
+          <img src={Img1} alt="" className="shareProfileImg" />
           <input
             placeholder="What is in your mind Hans?"
             className="shareInput"
