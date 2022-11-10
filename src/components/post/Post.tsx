@@ -2,6 +2,8 @@ import "./post.css";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { Users } from "../../dummyData";
 import { useState } from "react";
+import Img1 from "../../public/assets/like.png";
+import Img2 from "../../public/assets/heart.png";
 
 interface postType {
   post: {
@@ -50,18 +52,8 @@ const Post = ({ post }: postType) => {
         </div>
         <div className="postBottom">
           <div className="postBottomLeft">
-            <img
-              src="/assets/like.png"
-              alt=""
-              className="likeIcon"
-              onClick={likeHandler}
-            />
-            <img
-              src="/assets/heart.png"
-              alt=""
-              className="likeIcon"
-              onClick={likeHandler}
-            />
+            <img src={Img1} alt="" className="likeIcon" onClick={likeHandler} />
+            <img src={Img2} alt="" className="likeIcon" onClick={likeHandler} />
             <span className="postLikeCounter">{like} people like it</span>
           </div>
           <div className="postBottomRight">
